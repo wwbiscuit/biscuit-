@@ -11,7 +11,6 @@ The syllabus to be used in BISCUIT training sessions is modelled on the DBT-BINC
 Most resources specified in the syllabus are open source, meaning that they can be downloaded and installed free of cost by anyone who has access to the internet. Training will involve key areas that are crucial to bioinformatics, such as cell biology, genetics, molecular biology, and biochemistry. However, the main point of interest will be the students' introduction to the world of bioinformatics and computational biology. This is expected to comprise both theoretical and practical components, so as to develop a well-rounded understanding of the subject. 
 
 Bioinformatics topics and tools under consideration include working with biological databases (NCBI, EMBL, PDB, Uniprot, SwissProt, etc.), DNA, RNA and protein sequence analysis using various commonly used file formats, understanding sequence alignments, as well as structural prediction and visualization of biomolecules.
-
 * BTISnet centres need to suggest areas to focus on, as well as specific topics or resources that they can provide training on.
 * Centres need to indicate if teaching/training will be classroom based or internet based.
 
